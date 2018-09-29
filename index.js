@@ -14,5 +14,5 @@ function shout(string){
   }
   
   function sayHiToGrandma(string){
-  return string.('')
+  return string
   }
