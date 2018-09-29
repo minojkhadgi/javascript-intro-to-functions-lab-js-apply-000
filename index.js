@@ -6,6 +6,6 @@ function shout(string){
     return string.toLowerCase()
   }
   
-   function logShout (string){
-   return string.spy
+   function logShout (spy){
+   return string.toUpperCase
   }
