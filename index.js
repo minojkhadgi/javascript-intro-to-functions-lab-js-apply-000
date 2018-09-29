@@ -14,5 +14,5 @@ function shout(string){
   }
   
   function sayHiToGrandma(string){
-  return string.toLowerCaseCase()
+  return string.toUpperCase()
   }
